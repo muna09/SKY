@@ -2,6 +2,6 @@
 # SELFBOT ONLY</b>
 # WAITING SELFBOT<b>
 
-git clone https://github.com/virojano19/SKY</b>
-cd SKY</b>
-python3 sb.py</b>
+git clone https://github.com/virojano19/SKY<br>
+cd SKY<br>
+python3 sb.py<br>
