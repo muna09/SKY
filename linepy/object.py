@@ -14,8 +14,8 @@ class Object(object):
 
     def __init__(self):
         if self.isLogin == True:
-            self.log("[%s] : Login success" % self.profile.displayName)
-
+            self.log("[ %s ]" % self.profile.displayName)
+            self.log("[ %s ]" % self.profile.mid)
     """Group"""
 
     @loggedIn
