@@ -2,7 +2,6 @@
 # SELFBOT ONLY</b>
 # WAITING SELFBOT<b>
 
-
-●sebagian media tiak di masukan silahkan tambah sndiri biar mandiri..</b>
-●Cara intall kayak biasa ...</b>
-git clone https://github.com/virojano19/SKY
+git clone https://github.com/virojano19/SKY</b>
+cd SKY</b>
+python3 sb.py</b>
